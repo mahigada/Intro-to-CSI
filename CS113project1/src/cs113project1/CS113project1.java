@@ -1,8 +1,4 @@
 package cs113project1;
-/**
- *
- * @author mahigada
- */
 public class CS113project1 {
     /**
      * @param args the command line arguments
