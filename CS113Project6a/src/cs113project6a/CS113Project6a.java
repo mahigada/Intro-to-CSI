@@ -1,9 +1,3 @@
-/*
-Mahi Gada
-Professor Kappleau
-CS113 H 
-25 April 2019
- */
 package cs113project6a;
 
 /**
