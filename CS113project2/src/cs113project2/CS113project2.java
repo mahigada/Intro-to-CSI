@@ -1,13 +1,6 @@
-/*Mahi Gada
- Professor Jonathan Kapleau
- CS113H
-21 February 2019
- */
+
 package cs113project2;
-/**
- *
- * @author mahigada
- */
+
 import java.util.Random;
 import java.util.Scanner;
 public class CS113project2 {
